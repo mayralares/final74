@@ -1,0 +1,300 @@
+h1 {
+  font-family: 'Lobster Two', cursive;
+
+}
+
+h3 {
+  font-family: 'Poiret One', cursive;
+}
+
+body {
+  text-align: center;
+  background-image: url("/images/holographic_background.jpg");
+  background-position: top;
+  background-color: #D8DDFE;
+}
+
+a {
+  color:#3988FF;
+  text-decoration: none;
+}
+
+a:visited {
+  color:##90DEFF;
+}
+
+a:active {
+  color: orange;
+}
+
+a:hover {
+  color:white;
+}
+
+#one{
+  background-color: lightgrey;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  border-radius: 5px 50px;
+  //1-5
+}
+
+#two{
+  background-color: white;
+  margin-left: 260px;
+  margin-right: 260px;
+  text-align: left;
+  text-indent: 30px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#three{
+  background-color: lightpink;
+  margin-left:580px;
+  margin-right:580px;
+  text-align: center;
+  border-radius:50px;
+  padding: 1px;
+
+}
+
+#four{
+  background-color: lightpink;
+  margin-left:580px;
+  margin-right: 580px;
+  text-align: center;
+  border-radius: 50px;
+  padding:1px;
+
+}
+
+#five{
+  background-color: lightpink;
+  margin-left: 580px;
+  margin-right: 580px;
+  text-align: center;
+  border-radius: 50px;
+  padding:1px;
+
+  //THE INDEX. HTML PAGE ENDS HERE! THIS IS LIKE THE "START" PAGE.
+
+}
+
+
+#six{
+  background-color: lightgrey;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  border-radius: 5px 50px;
+
+  //numbers 6-11
+}
+
+#seven{
+  background-color: white;
+  margin-left: 260px;
+  margin-right: 260px;
+  text-align: left;
+  text-indent: 30px;
+  border-radius: 5px;
+  padding: 10px;
+
+}
+
+
+#eight{
+  background-color: lightpink;
+  margin-left: 540px;
+  margin-right:540px;
+  text-align: center;
+  border-radius: 50px;
+}
+
+#nine{
+  background-color: lightpink;
+  margin-left: 580px;
+  margin-right:580px;
+  text-align: center;
+  border-radius: 50px;
+
+}
+
+#ten{
+  background-color: lightpink;
+  margin-left: 580px;
+  margin-right:580px;
+  text-align: center;
+  border-radius: 50px;
+}
+
+#eleven{
+  background-color: lightpink;
+  margin-left: 560px;
+  margin-right:560px;
+  text-align: center;
+  border-radius: 50px;
+}
+
+#twelve{
+  background-color: lightgrey;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  border-radius: 5px 50px;
+
+  //numbers 12-14
+}
+
+#thirteen{
+  background-color: white;
+  margin-left: 260px;
+  margin-right: 260px;
+  text-align: left;
+  text-indent: 30px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#fourteen{
+  background-color: white;
+  text-align: center;
+  margin-left:400px;
+  margin-right:400px;
+  padding:10px;
+}
+
+#fifteen{
+  background-color: lightgrey;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  border-radius: 5px 50px;
+
+  //numbers 15-17
+}
+
+#sixteen{
+  background-color: white;
+  margin-left: 260px;
+  margin-right: 260px;
+  text-align: left;
+  text-indent: 30px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#seventeen{
+  background-color: white;
+  text-align: center;
+  margin-left:400px;
+  margin-right:400px;
+  padding:10px;
+}
+
+#eighteen{
+  background-color: lightgrey;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  border-radius: 5px 50px;
+
+  //numbers 19-20
+}
+
+#nineteen{
+  background-color: white;
+  margin-left: 260px;
+  margin-right: 260px;
+  text-align: left;
+  text-indent: 30px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#twenty{
+  background-color: white;
+  text-align: center;
+  margin-left:400px;
+  margin-right:400px;
+  padding:10px;
+}
+
+#twenty_one{
+  background-color: lightgrey;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  border-radius: 5px 50px;
+
+  //numbers 22-24
+}
+
+#twenty_two{
+  background-color: white;
+  margin-left: 260px;
+  margin-right: 260px;
+  text-align: left;
+  text-indent: 30px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#twenty_three{
+  background-color: white;
+  text-align: center;
+  margin-left:400px;
+  margin-right:400px;
+  padding:10px;
+}
+
+#twenty_four{
+  background-color: lightgrey;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  border-radius: 5px 50px;
+}
+
+#twenty_five{
+  background-color: white;
+  margin-left: 260px;
+  margin-right: 260px;
+  text-align: left;
+  text-indent: 30px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#twenty_six{
+  background-color: lightpink;
+  margin-left: 580px;
+  margin-right: 580px;
+  text-align: center;
+  border-radius: 50px;
+  padding: 1px;
+}
+
+#twenty_seven{
+  background-color: lightgrey;
+  margin-left:150px;
+  margin-right: 150px;
+  text-align: center;
+  border-radius: 5px 50px;
+}
+
+#twenty_eight{
+  background-color: white;
+  margin-left: 260px;
+  margin-right: 260px;
+  text-align: left;
+  text-indent: 30px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#twenty_nine{
+
+}
